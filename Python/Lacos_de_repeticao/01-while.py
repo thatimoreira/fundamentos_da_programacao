@@ -1,6 +1,5 @@
-"""
-Usuário deve tentar advinhar o número secreto, compreendido entre 0 e 50
-"""
+# Usuário deve tentar advinhar o número secreto, compreendido entre 0 e 50
+
 
 numero_secreto = 29
 numero_tentativas = 1

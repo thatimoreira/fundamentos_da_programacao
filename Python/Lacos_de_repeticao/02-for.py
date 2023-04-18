@@ -1,7 +1,6 @@
-"""
-- Calcula e exibe a média final do(a) aluno(a) e se foi aprovado(a) ou não;
-- Se aluno(a) não foi aprovado(a), calcula e exibe o valor que deve tirar na prova de recuperação;
-"""
+# Calcula e exibe a média final do(a) aluno(a) e se foi aprovado(a) ou não;
+# Se aluno(a) não foi aprovado(a), calcula e exibe o valor que deve tirar na prova de recuperação;
+
 
 soma_notas = 0
 
